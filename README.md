@@ -1,5 +1,9 @@
 ## 온라인 IDE를 통한 파이썬 교육 프로젝트
 
+<img width="1792" alt="컴파일 화면" src="https://user-images.githubusercontent.com/55318896/174528871-25fc556c-af96-4e35-b92a-d382a29a539d.png">
+
+- 개/고양이 Classifier를 실행시킨 후 나타난 컴파일 결과 입니다.
+
 ![IDE 구조](https://user-images.githubusercontent.com/55318896/174527717-ba9354f3-7352-40af-8fc2-d14d541bfdea.jpg)
 
 ### 사용한 기술 스택
